@@ -6,8 +6,10 @@ public class Tarea1 {
         System.out.println("Escribe tu nombre, profesion y pais de origen");
         String entrada = teclado.nextLine();
         String[] separado = entrada.toUpperCase().split(" ");
-        for(int i=0; i< separado.length; i++) {
-            System.out.println("nombre: "+separado[i]);
-        }
+        
+            System.out.println("nombre: "+separado[0]);
+            System.out.println("profesion: "+ separado[1]);
+            System.out.println("pais: "+ separado[2]);
+
     }
 }
