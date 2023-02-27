@@ -19,7 +19,8 @@ public class Tarea2 {
         }
         System.out.printf("%nSi la secuencia de caracteres que la componen es una secuencia consecutiva\n" +
                 "válida en la tabla de caracteres ASCII y false si no es una secuencia\n" +
-                "consecutiva%n%n");
+                "consecutiva%n");
+        System.out.println();
         System.out.println("La secuencia de caracteres ingresada es: " + Secuencia);
     }
 }
