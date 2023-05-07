@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExcepcionesDos/ExcepcionesDos.iml" filepath="$PROJECT_DIR$/ExcepcionesDos/ExcepcionesDos.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExcepcionesEjemplo/ExcepcionesEjemplo.iml" filepath="$PROJECT_DIR$/ExcepcionesEjemplo/ExcepcionesEjemplo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LayoutsJava/LayoutsJava.iml" filepath="$PROJECT_DIR$/LayoutsJava/LayoutsJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO.iml" filepath="$PROJECT_DIR$/POO.iml" />
     </modules>
   </component>
