@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/LayoutsJava/LayoutsJava.iml" filepath="$PROJECT_DIR$/LayoutsJava/LayoutsJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO.iml" filepath="$PROJECT_DIR$/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TablaMVC/TablaMVC.iml" filepath="$PROJECT_DIR$/TablaMVC/TablaMVC.iml" />
     </modules>
   </component>
 </project>
